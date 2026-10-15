@@ -1,0 +1,8 @@
+SQLAlchemy
+tkcalendar
+pytest
+flake8
+black
+pyinstaller
+altgraph
+pefile
